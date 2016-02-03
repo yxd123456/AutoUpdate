@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_off_pressed_holo_light.png",
+        "source": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_off_pressed_holo_light.png"
+    },
+    {
+        "merged": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_close_bg_normal.png",
+        "source": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\src\\main\\res\\drawable-hdpi\\umeng_update_close_bg_normal.png"
+    },
+    {
+        "merged": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_close_bg_tap.png",
+        "source": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\src\\main\\res\\drawable-hdpi\\umeng_update_close_bg_tap.png"
+    },
+    {
+        "merged": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_on_holo_light.png",
+        "source": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_on_holo_light.png"
+    },
+    {
+        "merged": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_off_focused_holo_light.png",
+        "source": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_off_focused_holo_light.png"
+    },
+    {
+        "merged": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_on_pressed_holo_light.png",
+        "source": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_on_pressed_holo_light.png"
+    },
+    {
+        "merged": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_on_focused_holo_light.png",
+        "source": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_on_focused_holo_light.png"
+    },
+    {
+        "merged": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_off_holo_light.png",
+        "source": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_off_holo_light.png"
+    }
+]

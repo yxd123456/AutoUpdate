@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AS\\AutoUpdate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AS\\AutoUpdate\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AS\\AutoUpdate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_progress.xml",
+        "source": "E:\\AS\\AutoUpdate\\app\\src\\main\\res\\layout\\dialog_progress.xml"
+    }
+]

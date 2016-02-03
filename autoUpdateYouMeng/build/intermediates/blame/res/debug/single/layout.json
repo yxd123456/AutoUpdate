@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\build\\intermediates\\res\\merged\\debug\\layout\\tb_munion_aditem.xml",
+        "source": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\src\\main\\res\\layout\\tb_munion_aditem.xml"
+    },
+    {
+        "merged": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_common_download_notification.xml",
+        "source": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\src\\main\\res\\layout\\umeng_common_download_notification.xml"
+    },
+    {
+        "merged": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_update_dialog.xml",
+        "source": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\src\\main\\res\\layout\\umeng_update_dialog.xml"
+    },
+    {
+        "merged": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\build\\intermediates\\res\\merged\\debug\\layout\\tb_munion_adview.xml",
+        "source": "E:\\AS\\AutoUpdate\\autoUpdateYouMeng\\src\\main\\res\\layout\\tb_munion_adview.xml"
+    }
+]

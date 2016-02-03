@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AS\AutoUpdate\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b91b088ad00f3fdc4cd59356581e51b80b3e993f">
+        <dex dex="E:\AS\AutoUpdate\app\build\intermediates\pre-dexed\debug\instant-run_70a330412125cb883530693847cb0136cc59c169.jar" />
+    </item>
+    <item
+        jar="E:\AS\AutoUpdate\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="750bc3710d1de73c05540cb8b93b964306c600a0">
+        <dex dex="E:\AS\AutoUpdate\app\build\intermediates\pre-dexed\debug\classes_50ae312814d869f001b89424f61619f97711c0c8.jar" />
+    </item>
+    <item
+        jar="E:\AS\AutoUpdate\app\libs\Volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2dd908289a096a92b5f266cefb6c1bda32762cef">
+        <dex dex="E:\AS\AutoUpdate\app\build\intermediates\pre-dexed\debug\Volley_3f7f9093adb14566d3f1762b56f2eca37dcb6f84.jar" />
+    </item>
+    <item
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\AS\AutoUpdate\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_ae51cd7271d68d7414781f62c530907cb861ea23.jar" />
+    </item>
+
+</items>
