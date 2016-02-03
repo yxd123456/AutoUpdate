@@ -1,2 +1,2 @@
 Test
-![](jpg.jpg)
+![](readme.jpg)
